@@ -1,5 +1,5 @@
 # Guess-the-Number-Project
-A Vanilla JS project with basic DOM Manipulation.
+A Vanilla JS project with basic DOM Manipulation. (<a href="https://ghosh-95.github.io/Guess-the-Number-Project/">Click Here</a> to view the project.)
 
 # Features
 User have to guess a number which is already generated and saved.
